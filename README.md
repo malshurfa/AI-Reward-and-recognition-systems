@@ -1,6 +1,4 @@
-# Project Title
-
-AI-Reward-and-recognition-systems
+# AI-Reward-and-recognition-systems
 
 ## Summary
 
